@@ -81,7 +81,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/zrain/notes.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: sites #[published]
+  branch: master #[published]
 
 search:
   path: search.xml
