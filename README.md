@@ -1,2 +1,0 @@
-# notes
-zrain's notes
