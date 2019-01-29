@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[github-private-project-invite-member]]></title>
+    <url>%2F2019%2F01%2F29%2Fgithub-private-project-invite-member%2F</url>
+    <content type="text"><![CDATA[Github 私有项目如何邀请小伙伴 进入对应的私有项目页面，点击最上方的 Tabs 列表中的 Settings 点击左侧菜单栏中的 Collaborators 在输入框内，输入你的小伙伴的注册邮箱、选择、Add collaborators  搞定]]></content>
+      <tags>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F01%2F22%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
