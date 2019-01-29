@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[github-private-project-invite-member]]></title>
+    <title><![CDATA[私有项目如何邀请小伙伴]]></title>
     <url>%2F2019%2F01%2F29%2Fgithub-private-project-invite-member%2F</url>
     <content type="text"><![CDATA[Github 私有项目如何邀请小伙伴 进入对应的私有项目页面，点击最上方的 Tabs 列表中的 Settings 点击左侧菜单栏中的 Collaborators 在输入框内，输入你的小伙伴的注册邮箱、选择、Add collaborators  搞定]]></content>
       <tags>
@@ -14,12 +14,15 @@
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
-    <title><![CDATA[koot-router-for-react-router]]></title>
+    <title><![CDATA[吐槽 react-router]]></title>
     <url>%2F2019%2F01%2F22%2Fkoot-router-for-react-router%2F</url>
-    <content type="text"><![CDATA[koot-router 路由器的概念：链接两个或多个设备前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件react-router-v3 就不是一个成功的组织者方式react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component ？ 怎么样 ？ 设计应该从实际触发，概念应该以解决问题为主，为了概念而设计，也是非常 Good]]></content>
+    <content type="text"><![CDATA[路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？ 设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good]]></content>
+      <tags>
+        <tag>吐槽</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[is-it-necessary-to-compile-when-publishing-the-npm-package]]></title>
+    <title><![CDATA[发布 npm 时，是否需要预编译]]></title>
     <url>%2F2019%2F01%2F22%2Fis-it-necessary-to-compile-when-publishing-the-npm-package%2F</url>
     <content type="text"><![CDATA[发布 npm 时，是否需要预编译]]></content>
   </entry>
