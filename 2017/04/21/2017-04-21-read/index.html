@@ -104,7 +104,7 @@
 <meta property="og:site_name" content="Zrain&#39;s Notes">
 <meta property="og:description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-22T07:33:00.568Z">
+<meta property="og:updated_time" content="2019-01-30T03:06:38.526Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="读书笔记[1]">
 <meta name="twitter:description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
@@ -416,7 +416,7 @@
                 
                   <span class="post-meta-item-text">更新于</span>
                 
-                <time title="修改时间：2019-01-22 15:33:00" itemprop="dateModified" datetime="2019-01-22T15:33:00+08:00">2019-01-22</time>
+                <time title="修改时间：2019-01-30 11:06:38" itemprop="dateModified" datetime="2019-01-30T11:06:38+08:00">2019-01-30</time>
               
             
           </span>
@@ -590,8 +590,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/01/22/hello-world/" rel="prev" title="Hello World">
-                Hello World <i class="fa fa-chevron-right"></i>
+              <a href="/2019/01/22/is-it-necessary-to-compile-when-publishing-the-npm-package/" rel="prev" title="发布 npm 时，是否需要预编译">
+                发布 npm 时，是否需要预编译 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -664,7 +664,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-count">6</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -689,14 +689,22 @@
                 
                 
                 <div class="site-state-item site-state-tags">
-                  
+                  <a href="/tags/index.html">
                     
                     
                       
                     
-                    <span class="site-state-item-count">1</span>
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">5</span>
                     <span class="site-state-item-name">标签</span>
-                  
+                  </a>
                 </div>
               
             </nav>
@@ -1251,12 +1259,10 @@
           if (results.length > 0) {
             var counter = results[0];
             
-            Counter('put', '/classes/Counter/' + counter.objectId, JSON.stringify({ time: { '__op': 'Increment', 'amount': 1 } }))
+              var $element = $(document.getElementById(url));
+              $element.find('.leancloud-visitors-count').text(counter.time + 1);
             
-              .done(function() {
-                var $element = $(document.getElementById(url));
-                $element.find('.leancloud-visitors-count').text(counter.time + 1);
-              })
+            Counter('put', '/classes/Counter/' + counter.objectId, JSON.stringify({ time: { '__op': 'Increment', 'amount': 1 } }))
             
               .fail(function ({ responseJSON }) {
                 console.log(`Failed to save Visitor num, with error message: ${responseJSON.error}`);
