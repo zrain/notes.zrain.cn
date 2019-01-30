@@ -1,7 +1,8 @@
 ---
-title: is-it-necessary-to-compile-when-publishing-the-npm-package
+title: 发布 npm 时，是否需要预编译
 date: 2019-01-22 15:53:08
 tags:
+ - NPM
 ---
 
-## 发布 npm 时，是否需要预编译
+# 发布 npm 时，是否需要预编译

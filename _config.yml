@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: README.md
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -79,9 +79,12 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+ - 
   type: git
   repo: https://github.com/zrain/notes.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master #[published]
+ - 
+  type: leancloud_counter_security_sync
 
 search:
   path: search.xml
@@ -89,3 +92,11 @@ search:
   format: html
   limit: 10000
 
+#
+# https://leaferx.online/2018/02/11/lc-security/
+leancloud_counter_security:
+  enable_sync: true
+  app_id: ahAerprv7yEG4JSyqEycWTVC-gzGzoHsz #<<your app id>>
+  app_key: y46yFJEIv0vOxpXECGD0uGPA #<<your app key>
+  username: 
+  password:
