@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo source 目录下 README.md 文件处理]]></title>
+    <url>%2F2019%2F01%2F30%2Fhexo-source-readme-md-html%2F</url>
+    <content type="text"><![CDATA[有朋友遇到这样的问题： Hexo 我们在 source 目录下放置了一个 README.md 文件，用于 github。 但是编译后发现 README.md 被编译成 README.html 文件。 接下来分享给大家最简单的解决办法 打开跟目录下的 _config.yml 文件 搜索 skip_render: 如果没有，则手动添加 skip_render: README.md 保存，解决 或参考 hexo github 的相关 issues [HEXO/ISSUES/1146]]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Github 私有项目如何邀请小伙伴]]></title>
     <url>%2F2019%2F01%2F29%2Fgithub-private-project-invite-member%2F</url>
     <content type="text"><![CDATA[进入对应的私有项目页面，点击最上方的 Tabs 列表中的 Settings 点击左侧菜单栏中的 Collaborators 在输入框内，输入你的小伙伴的注册邮箱、选择、Add collaborators  搞定]]></content>
