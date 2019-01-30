@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[私有项目如何邀请小伙伴]]></title>
+    <title><![CDATA[Github 私有项目如何邀请小伙伴]]></title>
     <url>%2F2019%2F01%2F29%2Fgithub-private-project-invite-member%2F</url>
     <content type="text"><![CDATA[进入对应的私有项目页面，点击最上方的 Tabs 列表中的 Settings 点击左侧菜单栏中的 Collaborators 在输入框内，输入你的小伙伴的注册邮箱、选择、Add collaborators  搞定]]></content>
       <tags>
@@ -25,6 +25,9 @@
     <title><![CDATA[发布 npm 时，是否需要预编译]]></title>
     <url>%2F2019%2F01%2F22%2Fis-it-necessary-to-compile-when-publishing-the-npm-package%2F</url>
     <content type="text"><![CDATA[发布 npm 时，是否需要预编译]]></content>
+      <tags>
+        <tag>NPM</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[读书笔记[1]]]></title>
