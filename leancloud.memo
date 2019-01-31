@@ -4,5 +4,7 @@
 {"title":"发布 npm 时，是否需要预编译","url":"/2019/01/22/is-it-necessary-to-compile-when-publishing-the-npm-package/"},
 {"title":"吐槽 react-router","url":"/2019/01/22/koot-router-for-react-router/"},
 {"title":"Github 私有项目如何邀请小伙伴","url":"/2019/01/29/github-private-project-invite-member/"},
+{"title":"Hello World","url":"/2019/01/30/hello-world/"},
+{"title":"Hexo使用Leancloud实现阅读统计 - 141 错误","url":"/2019/01/30/hexo-leancloud-code-141/"},
 {"title":"Hexo source 目录下 README.md 文件处理","url":"/2019/01/30/hexo-source-readme-md-html/"},
 ]
