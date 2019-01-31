@@ -96,25 +96,25 @@
 
 
 
-  <meta name="description" content="发布 npm 时，是否需要预编译">
-<meta name="keywords" content="NPM">
+  <meta name="description" content="有朋友遇到这样的问题： Hexo 我们在 source 目录下放置了一个 README.md 文件，用于 github。 但是编译后发现 README.md 被编译成 README.html 文件。 接下来分享给大家最简单的解决办法  打开跟目录下的 _config.yml 文件 搜索 skip_render: 如果没有，则手动添加 skip_render: README.md 保存，解决  或参">
+<meta name="keywords" content="Hexo">
 <meta property="og:type" content="article">
-<meta property="og:title" content="NPM发布时，是否需要预编译">
-<meta property="og:url" content="http://notes.zrain.cn/8f4cc25d/index.html">
+<meta property="og:title" content="Hexo source 目录下 README.md 文件处理">
+<meta property="og:url" content="http://notes.zrain.cn/114168a1">
 <meta property="og:site_name" content="Zrain&#39;s Notes">
-<meta property="og:description" content="发布 npm 时，是否需要预编译">
+<meta property="og:description" content="有朋友遇到这样的问题： Hexo 我们在 source 目录下放置了一个 README.md 文件，用于 github。 但是编译后发现 README.md 被编译成 README.html 文件。 接下来分享给大家最简单的解决办法  打开跟目录下的 _config.yml 文件 搜索 skip_render: 如果没有，则手动添加 skip_render: README.md 保存，解决  或参">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-31T02:48:52.161Z">
+<meta property="og:updated_time" content="2019-01-31T02:50:51.465Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="NPM发布时，是否需要预编译">
-<meta name="twitter:description" content="发布 npm 时，是否需要预编译">
+<meta name="twitter:title" content="Hexo source 目录下 README.md 文件处理">
+<meta name="twitter:description" content="有朋友遇到这样的问题： Hexo 我们在 source 目录下放置了一个 README.md 文件，用于 github。 但是编译后发现 README.md 被编译成 README.html 文件。 接下来分享给大家最简单的解决办法  打开跟目录下的 _config.yml 文件 搜索 skip_render: 如果没有，则手动添加 skip_render: README.md 保存，解决  或参">
 
 
 
 
 
 
-  <link rel="canonical" href="http://notes.zrain.cn/8f4cc25d/">
+  <link rel="canonical" href="http://notes.zrain.cn/114168a1">
 
 
 
@@ -124,7 +124,7 @@
   };
 </script>
 
-  <title>NPM发布时，是否需要预编译 | Zrain's Notes</title>
+  <title>Hexo source 目录下 README.md 文件处理 | Zrain's Notes</title>
   
 
 
@@ -356,7 +356,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/8f4cc25d/">
+    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/114168a1">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Zrain">
@@ -373,7 +373,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">NPM发布时，是否需要预编译
+          <h2 class="post-title" itemprop="name headline">Hexo source 目录下 README.md 文件处理
 
               
             
@@ -399,7 +399,7 @@
                 
               
 
-              <time title="创建时间：2019-01-22 15:53:08" itemprop="dateCreated datePublished" datetime="2019-01-22T15:53:08+08:00">2019-01-22</time>
+              <time title="创建时间：2019-01-30 10:55:06" itemprop="dateCreated datePublished" datetime="2019-01-30T10:55:06+08:00">2019-01-30</time>
             
 
             
@@ -416,7 +416,7 @@
                 
                   <span class="post-meta-item-text">更新于</span>
                 
-                <time title="修改时间：2019-01-31 10:48:52" itemprop="dateModified" datetime="2019-01-31T10:48:52+08:00">2019-01-31</time>
+                <time title="修改时间：2019-01-31 10:50:51" itemprop="dateModified" datetime="2019-01-31T10:50:51+08:00">2019-01-31</time>
               
             
           </span>
@@ -430,7 +430,7 @@
 
           
           
-            <span id="/8f4cc25d/" class="leancloud_visitors" data-flag-title="NPM发布时，是否需要预编译">
+            <span id="/114168a1" class="leancloud_visitors" data-flag-title="Hexo source 目录下 README.md 文件处理">
               <span class="post-meta-divider">|</span>
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -461,7 +461,18 @@
       
 
       
-        <h1 id="发布-npm-时，是否需要预编译"><a href="#发布-npm-时，是否需要预编译" class="headerlink" title="发布 npm 时，是否需要预编译"></a>发布 npm 时，是否需要预编译</h1>
+        <p>有朋友遇到这样的问题：</p>
+<p>Hexo 我们在 source 目录下放置了一个 README.md 文件，用于 github。</p>
+<p>但是编译后发现 README.md 被编译成 README.html 文件。</p>
+<p>接下来分享给大家最简单的解决办法</p>
+<ol>
+<li>打开跟目录下的 _config.yml 文件</li>
+<li>搜索 skip_render: 如果没有，则手动添加</li>
+<li>skip_render: README.md</li>
+<li>保存，解决</li>
+</ol>
+<p>或参考 hexo github 的相关 issues [<a href="https://github.com/hexojs/hexo/issues/1146" target="_blank" rel="noopener">HEXO/ISSUES/1146</a>]</p>
+
       
     </div>
 
@@ -484,7 +495,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/NPM/" rel="tag"># NPM</a>
+            <a href="/tags/Hexo/" rel="tag"># Hexo</a>
           
         </div>
       
@@ -497,8 +508,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/a4877d8e/" rel="next" title="读书笔记[1]">
-                <i class="fa fa-chevron-left"></i> 读书笔记[1]
+              <a href="/409e046b" rel="next" title="Github 私有项目如何邀请小伙伴">
+                <i class="fa fa-chevron-left"></i> Github 私有项目如何邀请小伙伴
               </a>
             
           </div>
@@ -507,8 +518,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/e72448d2/" rel="prev" title="吐槽React-Router">
-                吐槽React-Router <i class="fa fa-chevron-right"></i>
+              <a href="/4a17b156" rel="prev" title="Hello World">
+                Hello World <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -554,17 +565,8 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            文章目录
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            站点概览
-          </li>
-        </ul>
-      
 
-      <div class="site-overview-wrap sidebar-panel">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
@@ -670,23 +672,6 @@
         </div>
       </div>
 
-      
-      <!--noindex-->
-        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-            
-            
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#发布-npm-时，是否需要预编译"><span class="nav-number">1.</span> <span class="nav-text">发布 npm 时，是否需要预编译</span></a></li></ol></div>
-            
-
-          </div>
-        </div>
-      <!--/noindex-->
       
 
       
