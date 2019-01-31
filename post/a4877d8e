@@ -96,25 +96,25 @@
 
 
 
-  <meta name="description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
-<meta name="keywords" content="吐槽">
+  <meta name="description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
+<meta name="keywords" content="读书笔记">
 <meta property="og:type" content="article">
-<meta property="og:title" content="吐槽React-Router">
-<meta property="og:url" content="http://notes.zrain.cn/e72448d2.html">
+<meta property="og:title" content="读书笔记[1]">
+<meta property="og:url" content="http://notes.zrain.cn/post/a4877d8e">
 <meta property="og:site_name" content="Zrain&#39;s Notes">
-<meta property="og:description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
+<meta property="og:description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-31T02:50:51.464Z">
+<meta property="og:updated_time" content="2019-01-31T02:50:51.462Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="吐槽React-Router">
-<meta name="twitter:description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
+<meta name="twitter:title" content="读书笔记[1]">
+<meta name="twitter:description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
 
 
 
 
 
 
-  <link rel="canonical" href="http://notes.zrain.cn/e72448d2.html">
+  <link rel="canonical" href="http://notes.zrain.cn/post/a4877d8e">
 
 
 
@@ -124,7 +124,7 @@
   };
 </script>
 
-  <title>吐槽React-Router | Zrain's Notes</title>
+  <title>读书笔记[1] | Zrain's Notes</title>
   
 
 
@@ -356,7 +356,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/e72448d2.html">
+    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/post/a4877d8e">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Zrain">
@@ -373,7 +373,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">吐槽React-Router
+          <h2 class="post-title" itemprop="name headline">读书笔记[1]
 
               
             
@@ -399,7 +399,7 @@
                 
               
 
-              <time title="创建时间：2019-01-22 16:19:38" itemprop="dateCreated datePublished" datetime="2019-01-22T16:19:38+08:00">2019-01-22</time>
+              <time title="创建时间：2017-04-21 14:22:59" itemprop="dateCreated datePublished" datetime="2017-04-21T14:22:59+08:00">2017-04-21</time>
             
 
             
@@ -422,6 +422,24 @@
           </span>
 
           
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/《-Javascript-权威指南-》/" itemprop="url" rel="index"><span itemprop="name">《 Javascript 权威指南 》</span></a></span>
+
+                
+                
+              
+            </span>
+          
 
           
             
@@ -430,7 +448,7 @@
 
           
           
-            <span id="/e72448d2.html" class="leancloud_visitors" data-flag-title="吐槽React-Router">
+            <span id="/post/a4877d8e" class="leancloud_visitors" data-flag-title="读书笔记[1]">
               <span class="post-meta-divider">|</span>
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -461,11 +479,75 @@
       
 
       
-        <p>路由器的概念：链接两个或多个设备</p>
-<p>前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件</p>
-<p>react-router-v3 就不是一个成功的组织者方式</p>
-<p>react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？ </p>
-<p>设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good</p>
+        <h3 id="javascript-语言核心"><a href="#javascript-语言核心" class="headerlink" title="javascript 语言核心"></a>javascript 语言核心</h3><h4 id="词法结构"><a href="#词法结构" class="headerlink" title="词法结构"></a>词法结构</h4><ul>
+<li>javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。</li>
+<li>HTML 是不区分大小写的。</li>
+<li>严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。</li>
+<li>Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。</li>
+<li>直接量：就是程序中直接使用的数据值。</li>
+<li>标识符：就是一个名字，用来对变量和函数进行命名。（必须以字母，下划线，美元符开始，数字是不允许的）。</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"café"</span> === “caf/u00e9” <span class="comment">// =&gt; true</span></span><br></pre></td></tr></table></figure>
+<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><ul>
+<li>原始类型：数字、字符串、布尔值、null、undefined</li>
+<li>对象类型（属性property的集合）：数组（特殊的对象array）、函数（特殊的对象function）</li>
+<li>构造函数：函数用来初始化一个新建的对象，我们称之为构造函数，每个构造函数定义了一类（class）对象，这一类对象可以称作是对象类型的字类型。</li>
+<li>javascript核心类：日期(Date), 正则 (RegExp), 错误(Error)</li>
+<li>数据回收，当不再有引用指向一个对象，解释器就会认为这个对象没用了，然后会按照回收机制，对其进行回收（不一定是立即执行）。</li>
+<li>javascript中字符串是不可变的，没有提供任何修改已知字符串的文本内容的方法</li>
+<li>javascript可以自由的进行数据转换。</li>
+<li>javascript变量是无类型的，可以被赋予任何值。</li>
+<li>不在任何函数内声明的变量，称为全局变量。</li>
+<li>函数内声明的变量具有函数作用域，并且只在函数内可见。</li>
+<li>javascript采用64位浮点格式表示数字</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">最大值 + <span class="number">1.7976931348623157</span> x <span class="number">10e308</span></span><br><span class="line">最小值 - <span class="number">5</span>x10e<span class="number">-324</span></span><br><span class="line">能表示的整数范围 <span class="number">2e53</span> ~ <span class="number">-2e52</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>无穷大 = infinity</li>
+<li>负无穷大 = -infinity</li>
+<li>isNaN()，如果参数是 NaN 或者一个非数字值，则返回true</li>
+<li>isFinite()，如果参数不是 NaN，infinity，-infinity，则返回true</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> x = <span class="number">.3</span> - <span class="number">.2</span>; <span class="comment">// =&gt; 0.09999999999999998</span></span><br><span class="line"><span class="keyword">var</span> y = <span class="number">.2</span> - <span class="number">.1</span>;</span><br><span class="line">x == y; <span class="comment">// =&gt; false</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>当使用单引号来界定字符串时，要注意英文，撇号和单引号是一个字符。（个人推荐用双引号来界定字符串）</li>
+<li>转义字符</li>
+<li>javascript中字符串是固定不变的，replace(), toUpperCase() 都返回一个新的字符串，原值并未发生改变。</li>
+<li>undefined, null, 0, -0, NaN, “” 会被转换为 false,所有其他值包含对象和数组都会转换为true</li>
+<li>null 和 undefined 用 === 来区分，typeof 可以看出区别。</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">typeof</span> <span class="literal">null</span> = <span class="built_in">Object</span>;</span><br><span class="line"><span class="keyword">typeof</span> <span class="literal">undefined</span> = <span class="string">"undefined"</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>全局属性，undefined，infinity，NaN</li>
+<li>全局函数，isNaN()，parseInt()，parseFloat()，eval()</li>
+<li>构造函数，Date()，RegExp()，String()，Object()，Array()</li>
+<li>全局对象，Math，JSON</li>
+<li>字符串，数字，布尔值的属性都是只读的，不能定义新属性</li>
+<li>== 会将原始值和其包装对象视为相等，=== 不会，typeof 可以看出原因</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> s = <span class="string">"test"</span>, n = <span class="number">1</span>, b = <span class="literal">true</span>;</span><br><span class="line"><span class="keyword">var</span> S = <span class="keyword">new</span> <span class="built_in">String</span>(s);</span><br><span class="line"><span class="keyword">var</span> N = <span class="keyword">new</span> <span class="built_in">Number</span>(n);</span><br><span class="line"><span class="keyword">var</span> B = <span class="keyword">new</span> <span class="built_in">Boolean</span>(b);</span><br><span class="line"></span><br><span class="line">s == S <span class="comment">// =&gt; true</span></span><br><span class="line">s === S <span class="comment">// =&gt; fasle</span></span><br><span class="line"><span class="keyword">typeof</span> s <span class="comment">// =&gt; "string"</span></span><br><span class="line"><span class="keyword">typeof</span> S <span class="comment">// =&gt; "object"</span></span><br><span class="line"></span><br><span class="line">n == N <span class="comment">// =&gt; true</span></span><br><span class="line">n === N <span class="comment">// =&gt; false</span></span><br><span class="line"><span class="keyword">typeof</span> n <span class="comment">// =&gt; "number"</span></span><br><span class="line"><span class="keyword">typeof</span> N <span class="comment">// =&gt; "object"</span></span><br><span class="line"></span><br><span class="line">b == B <span class="comment">// =&gt; true</span></span><br><span class="line">b === B <span class="comment">// =&gt; false</span></span><br><span class="line"><span class="keyword">typeof</span> b <span class="comment">// =&gt; "boolean"</span></span><br><span class="line"><span class="keyword">typeof</span> B <span class="comment">// =&gt; "object"</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>原始值是不可更难改的，任何方法都无法更改或突变一个原始值。</li>
+<li>比较两个单独的字符串，当且仅当它们的长度相等，且每个索引的字符都相等时，javascript才认为它们相等</li>
+<li>对象是引用类型的</li>
+<li>toFixed() 从不会采用指数计数法</li>
+<li>toExponential() 使用指数计数法 </li>
+<li>对象转字符串先调用toString()，如果有方法且返回原始值，则返回结果，如果没有toString()方法，或者返回不是原始值，则继续调用valueOf()方法</li>
+<li>对象转数字与上条相反，先valueOF()后toString()</li>
+<li>日期类是javascript中唯一的预先定义类型。</li>
+<li>动态语言，不会给任何变量指定数据类型，只会在第一次赋值变量时，在内部记录下数据类型，代表：Python，Ruby，Javascript</li>
+<li>C/C++静态语言代表，C#，Java</li>
+<li>变量作用域指代码中定义这个变量的区域</li>
+<li>参数属于局部变量</li>
+<li>局部变量优先级高于同名全局变量</li>
+<li>javascript 是函数作用域，变量在声明它的“函数体以及这个函数体嵌套的任意函数体内”都是有定义的，这个特性称之为“变量提升”</li>
+<li>声明一个全局变量时，是定义了全局对象上的一个属性</li>
+<li>使用var声明一个变量时，这个属性不可配置，不能被 delete</li>
+<li>当定义一个函数时，它实际保存了一个作用域链，当调用这个函数时，他创建一个新的对象来存储它的局部变量，并将这个对象添加至保存作用域链的对象上。</li>
+</ul>
+<h4 id="日期和日历"><a href="#日期和日历" class="headerlink" title="日期和日历"></a>日期和日历</h4><p>待补充</p>
+<h4 id="正则表达式"><a href="#正则表达式" class="headerlink" title="正则表达式"></a>正则表达式</h4><p>待补充</p>
+<h4 id="面向对象"><a href="#面向对象" class="headerlink" title="面向对象"></a>面向对象</h4><p>待补充</p>
 
       
     </div>
@@ -489,7 +571,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/吐槽/" rel="tag"># 吐槽</a>
+            <a href="/tags/读书笔记/" rel="tag"># 读书笔记</a>
           
         </div>
       
@@ -502,18 +584,14 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/8f4cc25d.html" rel="next" title="NPM发布时，是否需要预编译">
-                <i class="fa fa-chevron-left"></i> NPM发布时，是否需要预编译
-              </a>
-            
           </div>
 
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/409e046b.html" rel="prev" title="Github 私有项目如何邀请小伙伴">
-                Github 私有项目如何邀请小伙伴 <i class="fa fa-chevron-right"></i>
+              <a href="/post/8f4cc25d" rel="prev" title="NPM发布时，是否需要预编译">
+                NPM发布时，是否需要预编译 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -559,8 +637,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
@@ -666,6 +753,23 @@
         </div>
       </div>
 
+      
+      <!--noindex-->
+        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+            
+            
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#javascript-语言核心"><span class="nav-number">1.</span> <span class="nav-text">javascript 语言核心</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#词法结构"><span class="nav-number">1.1.</span> <span class="nav-text">词法结构</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#数据类型"><span class="nav-number">1.2.</span> <span class="nav-text">数据类型</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#日期和日历"><span class="nav-number">1.3.</span> <span class="nav-text">日期和日历</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#正则表达式"><span class="nav-number">1.4.</span> <span class="nav-text">正则表达式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#面向对象"><span class="nav-number">1.5.</span> <span class="nav-text">面向对象</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </div>
+      <!--/noindex-->
       
 
       

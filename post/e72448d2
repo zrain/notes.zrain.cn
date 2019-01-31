@@ -96,25 +96,25 @@
 
 
 
-  <meta name="description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
-<meta name="keywords" content="Hexo">
+  <meta name="description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
+<meta name="keywords" content="吐槽">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hexo使用Leancloud实现阅读统计 - 141 错误">
-<meta property="og:url" content="http://notes.zrain.cn/51d405eb.html">
+<meta property="og:title" content="吐槽React-Router">
+<meta property="og:url" content="http://notes.zrain.cn/post/e72448d2">
 <meta property="og:site_name" content="Zrain&#39;s Notes">
-<meta property="og:description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
+<meta property="og:description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-31T02:50:51.465Z">
+<meta property="og:updated_time" content="2019-01-31T02:50:51.464Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo使用Leancloud实现阅读统计 - 141 错误">
-<meta name="twitter:description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
+<meta name="twitter:title" content="吐槽React-Router">
+<meta name="twitter:description" content="路由器的概念：链接两个或多个设备 前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件 react-router-v3 就不是一个成功的组织者方式 react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？  设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good">
 
 
 
 
 
 
-  <link rel="canonical" href="http://notes.zrain.cn/51d405eb.html">
+  <link rel="canonical" href="http://notes.zrain.cn/post/e72448d2">
 
 
 
@@ -124,7 +124,7 @@
   };
 </script>
 
-  <title>Hexo使用Leancloud实现阅读统计 - 141 错误 | Zrain's Notes</title>
+  <title>吐槽React-Router | Zrain's Notes</title>
   
 
 
@@ -356,7 +356,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/51d405eb.html">
+    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/post/e72448d2">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Zrain">
@@ -373,7 +373,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">Hexo使用Leancloud实现阅读统计 - 141 错误
+          <h2 class="post-title" itemprop="name headline">吐槽React-Router
 
               
             
@@ -399,7 +399,7 @@
                 
               
 
-              <time title="创建时间：2019-01-30 20:19:27" itemprop="dateCreated datePublished" datetime="2019-01-30T20:19:27+08:00">2019-01-30</time>
+              <time title="创建时间：2019-01-22 16:19:38" itemprop="dateCreated datePublished" datetime="2019-01-22T16:19:38+08:00">2019-01-22</time>
             
 
             
@@ -430,7 +430,7 @@
 
           
           
-            <span id="/51d405eb.html" class="leancloud_visitors" data-flag-title="Hexo使用Leancloud实现阅读统计 - 141 错误">
+            <span id="/post/e72448d2" class="leancloud_visitors" data-flag-title="吐槽React-Router">
               <span class="post-meta-divider">|</span>
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -461,22 +461,11 @@
       
 
       
-        <p>错误说明</p>
-<p>code: 141</p>
-<ul>
-<li>信息 - LeanEngine request timeout.</li>
-<li>含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。</li>
-<li><a href="https://leancloud.cn/docs/error_code.html#hash1389345" target="_blank" rel="noopener">我是错误说明超链接</a></li>
-</ul>
-<p>处理方式</p>
-<ul>
-<li>登陆 leancloud</li>
-<li>一级菜单云引擎</li>
-<li>二级部署</li>
-<li>最下方在线编辑版本 选择 v3 保存</li>
-<li>点击部署</li>
-<li>刷新你的博客</li>
-</ul>
+        <p>路由器的概念：链接两个或多个设备</p>
+<p>前端路由器：应该是页面组件的组织者，用于连接两个/或多个组件</p>
+<p>react-router-v3 就不是一个成功的组织者方式</p>
+<p>react-router-v4 更牛逼，直接变成，组件本身了！！改名 react-router-component 怎么样 ？ </p>
+<p>设计应该从实际出发，概念应该以解决问题为主，为了概念而设计，也是非常 Good</p>
 
       
     </div>
@@ -500,7 +489,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/Hexo/" rel="tag"># Hexo</a>
+            <a href="/tags/吐槽/" rel="tag"># 吐槽</a>
           
         </div>
       
@@ -513,8 +502,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/4a17b156.html" rel="next" title="Hello World">
-                <i class="fa fa-chevron-left"></i> Hello World
+              <a href="/post/8f4cc25d" rel="next" title="NPM发布时，是否需要预编译">
+                <i class="fa fa-chevron-left"></i> NPM发布时，是否需要预编译
               </a>
             
           </div>
@@ -522,6 +511,10 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/post/409e046b" rel="prev" title="Github 私有项目如何邀请小伙伴">
+                Github 私有项目如何邀请小伙伴 <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
