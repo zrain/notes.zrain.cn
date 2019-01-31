@@ -100,7 +100,7 @@
 <meta name="keywords" content="读书笔记">
 <meta property="og:type" content="article">
 <meta property="og:title" content="读书笔记[1]">
-<meta property="og:url" content="http://notes.zrain.cn/post/a4877d8e">
+<meta property="og:url" content="http://notes.zrain.cn/p/a4877d8e">
 <meta property="og:site_name" content="Zrain&#39;s Notes">
 <meta property="og:description" content="javascript 语言核心词法结构 javascript 是区分大小写的，online, Online, OnLine, ONLINE 是四个不同的变量。 HTML 是不区分大小写的。 严格来讲 XHTML 是区分大小写的，浏览器会 “宽容” 的正确解析。 Unicode转义写法可以用在字符串直接量、正则表达式直接量、标识符（关键字除外）。 直接量：就是程序中直接使用的数据值。 标识符：就是一">
 <meta property="og:locale" content="zh-CN">
@@ -114,7 +114,7 @@
 
 
 
-  <link rel="canonical" href="http://notes.zrain.cn/post/a4877d8e">
+  <link rel="canonical" href="http://notes.zrain.cn/p/a4877d8e">
 
 
 
@@ -356,7 +356,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/post/a4877d8e">
+    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/p/a4877d8e">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Zrain">
@@ -448,7 +448,7 @@
 
           
           
-            <span id="/post/a4877d8e" class="leancloud_visitors" data-flag-title="读书笔记[1]">
+            <span id="/p/a4877d8e" class="leancloud_visitors" data-flag-title="读书笔记[1]">
               <span class="post-meta-divider">|</span>
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -590,7 +590,7 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/post/8f4cc25d" rel="prev" title="NPM发布时，是否需要预编译">
+              <a href="/p/8f4cc25d" rel="prev" title="NPM发布时，是否需要预编译">
                 NPM发布时，是否需要预编译 <i class="fa fa-chevron-right"></i>
               </a>
             

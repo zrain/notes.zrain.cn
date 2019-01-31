@@ -96,25 +96,25 @@
 
 
 
-  <meta name="description" content="发布 npm 时，是否需要预编译">
-<meta name="keywords" content="NPM">
+  <meta name="description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
+<meta name="keywords" content="Hexo">
 <meta property="og:type" content="article">
-<meta property="og:title" content="NPM发布时，是否需要预编译">
-<meta property="og:url" content="http://notes.zrain.cn/post/8f4cc25d">
+<meta property="og:title" content="Hexo使用Leancloud实现阅读统计 - 141 错误">
+<meta property="og:url" content="http://notes.zrain.cn/p/51d405eb">
 <meta property="og:site_name" content="Zrain&#39;s Notes">
-<meta property="og:description" content="发布 npm 时，是否需要预编译">
+<meta property="og:description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-31T02:50:51.463Z">
+<meta property="og:updated_time" content="2019-01-31T02:50:51.465Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="NPM发布时，是否需要预编译">
-<meta name="twitter:description" content="发布 npm 时，是否需要预编译">
+<meta name="twitter:title" content="Hexo使用Leancloud实现阅读统计 - 141 错误">
+<meta name="twitter:description" content="错误说明 code: 141  信息 - LeanEngine request timeout. 含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。 我是错误说明超链接  处理方式  登陆 leancloud 一级菜单云引擎 二级部署 最下方在线编辑版本 选择 v3 保存 点击部署 刷新你的博客">
 
 
 
 
 
 
-  <link rel="canonical" href="http://notes.zrain.cn/post/8f4cc25d">
+  <link rel="canonical" href="http://notes.zrain.cn/p/51d405eb">
 
 
 
@@ -124,7 +124,7 @@
   };
 </script>
 
-  <title>NPM发布时，是否需要预编译 | Zrain's Notes</title>
+  <title>Hexo使用Leancloud实现阅读统计 - 141 错误 | Zrain's Notes</title>
   
 
 
@@ -356,7 +356,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/post/8f4cc25d">
+    <link itemprop="mainEntityOfPage" href="http://notes.zrain.cn/p/51d405eb">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Zrain">
@@ -373,7 +373,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">NPM发布时，是否需要预编译
+          <h2 class="post-title" itemprop="name headline">Hexo使用Leancloud实现阅读统计 - 141 错误
 
               
             
@@ -399,7 +399,7 @@
                 
               
 
-              <time title="创建时间：2019-01-22 15:53:08" itemprop="dateCreated datePublished" datetime="2019-01-22T15:53:08+08:00">2019-01-22</time>
+              <time title="创建时间：2019-01-30 20:19:27" itemprop="dateCreated datePublished" datetime="2019-01-30T20:19:27+08:00">2019-01-30</time>
             
 
             
@@ -430,7 +430,7 @@
 
           
           
-            <span id="/post/8f4cc25d" class="leancloud_visitors" data-flag-title="NPM发布时，是否需要预编译">
+            <span id="/p/51d405eb" class="leancloud_visitors" data-flag-title="Hexo使用Leancloud实现阅读统计 - 141 错误">
               <span class="post-meta-divider">|</span>
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -461,7 +461,23 @@
       
 
       
-        <h1 id="发布-npm-时，是否需要预编译"><a href="#发布-npm-时，是否需要预编译" class="headerlink" title="发布 npm 时，是否需要预编译"></a>发布 npm 时，是否需要预编译</h1>
+        <p>错误说明</p>
+<p>code: 141</p>
+<ul>
+<li>信息 - LeanEngine request timeout.</li>
+<li>含义 - 云引擎调用超时。错误信息里会有具体的 Class 和 Hook 名称。</li>
+<li><a href="https://leancloud.cn/docs/error_code.html#hash1389345" target="_blank" rel="noopener">我是错误说明超链接</a></li>
+</ul>
+<p>处理方式</p>
+<ul>
+<li>登陆 leancloud</li>
+<li>一级菜单云引擎</li>
+<li>二级部署</li>
+<li>最下方在线编辑版本 选择 v3 保存</li>
+<li>点击部署</li>
+<li>刷新你的博客</li>
+</ul>
+
       
     </div>
 
@@ -484,7 +500,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/NPM/" rel="tag"># NPM</a>
+            <a href="/tags/Hexo/" rel="tag"># Hexo</a>
           
         </div>
       
@@ -497,8 +513,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/post/a4877d8e" rel="next" title="读书笔记[1]">
-                <i class="fa fa-chevron-left"></i> 读书笔记[1]
+              <a href="/p/4a17b156" rel="next" title="Hello World">
+                <i class="fa fa-chevron-left"></i> Hello World
               </a>
             
           </div>
@@ -506,10 +522,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/post/e72448d2" rel="prev" title="吐槽React-Router">
-                吐槽React-Router <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -554,17 +566,8 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            文章目录
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            站点概览
-          </li>
-        </ul>
-      
 
-      <div class="site-overview-wrap sidebar-panel">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
@@ -670,23 +673,6 @@
         </div>
       </div>
 
-      
-      <!--noindex-->
-        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-            
-            
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#发布-npm-时，是否需要预编译"><span class="nav-number">1.</span> <span class="nav-text">发布 npm 时，是否需要预编译</span></a></li></ol></div>
-            
-
-          </div>
-        </div>
-      <!--/noindex-->
       
 
       
