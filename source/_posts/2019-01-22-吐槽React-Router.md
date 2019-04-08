@@ -1,8 +1,9 @@
 ---
-title: 吐槽 react-router
-date: 2019-01-22 16:19:38
+title: 吐槽 React-Router
 tags:
- - 吐槽
+  - 吐槽
+abbrlink: e72448d2
+date: 2019-01-22 16:19:38
 ---
 
 路由器的概念：链接两个或多个设备

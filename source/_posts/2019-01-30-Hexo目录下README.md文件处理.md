@@ -1,8 +1,9 @@
 ---
 title: Hexo source 目录下 README.md 文件处理
-date: 2019-01-30 10:55:06
 tags:
- - Hexo
+  - Hexo
+abbrlink: 114168a1
+date: 2019-01-30 10:55:06
 ---
 
 有朋友遇到这样的问题：
